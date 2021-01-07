@@ -1,3 +1,3 @@
 # JavaProgram
 
-01. Number Guessing JavaProgram
+1. Number Guessing JavaProgram
