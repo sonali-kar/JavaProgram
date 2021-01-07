@@ -1,3 +1,3 @@
-# JavaProgram Practice
+# JavaProgram
 
-1. Number Guessing JavaProgram
+01. Number Guessing JavaProgram
