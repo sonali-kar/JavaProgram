@@ -30,19 +30,15 @@ import java.util.Scanner;
                     System.out.println("The details of IPL player: " + "\n" + " Name : " + name + "\n" + "Team Name: " + teamName + "\n" + "Age: " + age + "\n" 
                     + "Specialization"+ speciality);
                 }
-            
+                public static void main(String args[])
+                {
+                input();
+                }
+           }
     
             
 
 
 
-            public static void main(String args[])
-            {
-            input();
-            }
-
-
-        
-
-        }
+            
         
